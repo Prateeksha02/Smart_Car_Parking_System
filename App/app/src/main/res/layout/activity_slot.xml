@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    tools:context=".SlotActivity">
+
+    <TextView
+        android:id="@+id/tev_project"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Banashankari"
+
+        android:textStyle="bold"
+        android:textSize="45sp" />
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tev_project">
+        <TextView
+            android:id="@+id/tv_slot1"
+            android:layout_weight="1"
+            android:layout_width="200dp"
+            android:paddingLeft="30dp"
+            android:paddingBottom="30dp"
+            android:paddingTop="30dp"
+            android:paddingRight="30dp"
+            android:layout_height="150dp"
+            android:text="Slot 1"
+            android:textSize="40sp"
+            android:textAlignment="center"
+            android:background="@drawable/drawable_corner_text"
+            />
+
+        <View
+            android:layout_width="20dp"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/tv_slot2"
+            android:layout_weight="1"
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:background="@drawable/drawable_corner_text"
+            android:paddingLeft="30dp"
+            android:paddingTop="30dp"
+            android:paddingRight="30dp"
+            android:paddingBottom="30dp"
+            android:text="Slot 2"
+            android:textAlignment="center"
+            android:textSize="40sp"
+
+            />
+
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/horzo"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_below="@id/linear1"/>
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/horzo">
+        <TextView
+            android:id="@+id/tv_slot3"
+            android:layout_weight="1"
+            android:paddingLeft="30dp"
+            android:paddingTop="30dp"
+            android:paddingRight="30dp"
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:text="Slot 3"
+            android:background="@drawable/drawable_corner_text"
+            android:textSize="40sp"
+            android:textAlignment="center"
+
+
+            />
+        <View
+            android:layout_width="20dp"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/tv_slot4"
+            android:layout_weight="1"
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+
+            android:paddingLeft="30dp"
+            android:paddingTop="30dp"
+            android:paddingRight="30dp"
+            android:paddingBottom="30dp"
+            android:text="Slot 4"
+            android:background="@drawable/drawable_corner_text"
+            android:textAlignment="center"
+            android:textSize="40sp"
+
+            />
+
+
+    </LinearLayout>
+    <View
+        android:id="@+id/horzo2"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_below="@id/linear2"></View>
+    <Button
+        android:id="@+id/check_slot"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="Check Available slot"
+        android:layout_below="@id/horzo2"
+        android:background="@drawable/rounded_corner_view"
+        android:layout_centerHorizontal="true"
+
+        />
+    <Button
+        android:id="@+id/paymentpage"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="Payment"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/check_slot"
+        android:background="@drawable/rounded_corner_view"
+        android:layout_centerHorizontal="true"
+
+        />
+
+<!--    <TextView-->
+<!--        android:id="@+id/testing"-->
+<!--        android:layout_width="200dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@id/check_slot"-->
+<!--        android:background="@color/green"-->
+<!--        android:textSize="40sp"-->
+
+<!--        />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/testing2"-->
+<!--        android:layout_width="200dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@id/testing"-->
+<!--        android:background="@color/green"-->
+<!--        android:textSize="40sp"-->
+
+<!--        />-->
+
+</RelativeLayout>

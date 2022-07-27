@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--    <TextView-->
+        <!--        android:layout_width="match_parent"-->
+        <!--        android:layout_height="wrap_content"-->
+        <!--        android:text="Smart Parking"-->
+        <!--        android:textStyle="bold"-->
+        <!--        android:textSize="45sp"-->
+        <!--        android:id="@+id/tv_project" />-->
+
+        <ImageView
+            android:id="@+id/imgfasti"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginRight="150dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/fasti" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imgfasti"
+            android:paddingLeft="150dp"
+            android:paddingRight="100dp"
+            android:text="FASTag ID"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <EditText
+
+            android:id="@+id/edText_fastag"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+
+            android:hint="Please enter your FasTag ID" />
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/edText_fastag"
+            android:layout_marginHorizontal="105dp"
+            android:background="@drawable/rounded_corner_view"
+            android:text="SUBMIT"
+
+            android:textSize="30sp" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>
