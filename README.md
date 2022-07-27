@@ -18,7 +18,7 @@
   <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/logo.png?raw=true" align="center" width="100" style="max-width: 100%;">
 </h1>
 <p dir="auto">
-  App description
+  Its feature-rich application displays directional ways, finding available bays, and tariff information such as parking hours and charges. A payment function can also be included where motorists can utilize contactless payments. 
 </p>
 <h4 dir="auto">
   Technologies Used
