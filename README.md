@@ -25,10 +25,11 @@
 <pre>
     1) Android Studio
         <a href="https://developer.android.com/studio/"> 
+        <img_src="" width="30" style="max-width: 100%;">
         </a>
     2) Firebase Realtime Database
         <a href="https://firebase.google.com/">
-        <img_src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/AS.jpg" width="30" style="max-width: 100%;">
+        <img_src="" width="30" style="max-width: 100%;">
         </a>
     3) Arduino IDE
         <a href="https://www.arduino.cc/en/software/">
