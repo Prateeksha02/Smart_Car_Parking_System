@@ -52,7 +52,7 @@ The aim of this project is to propose a smart solution to the issue by digitaliz
 <ol dir="auto">
   <li> Fork the project </li>
   <li> Create your own branch("<code>git chekcout -b 'mybranch'</code>") </li>
-<li> Open a pull Request</li>
+<li> Open a Pull Request</li>
 </ol>
 
 
