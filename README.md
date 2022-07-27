@@ -13,9 +13,10 @@
 <h2> 
   Project Description
 </h2>
-<h3>
-  Smart Track : With logo
-</h3>
+<h1>
+    Smart Track
+  <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/logo.png?raw=true" align="center" width="100" style="max-width: 100%;">
+</h1>
 <p dir="auto">
   App description
 </p>
