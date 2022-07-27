@@ -5,8 +5,8 @@
 <h2>
     Problem Statement
 </h2>
-With the rapid growth in the population, people prefer luxury and comfort over expense. hence, there is a demand for 4-wheeler in every family which is leading to the inefficient allotment of parking slots. We often observe this in organizations such as Departmental stores, Universities, Supermarkets, Hospitals, and so on with no proper parking system for cars. We are still following the conventional method of searching for parking slot, which is not a conducive solution to this issue. 
-The aim of this project is to propose a smart solution to the issue by digitalizing the process and resulting in the smooth functioning of the same. 
+With the rapid growth in the population, people prefer luxury and comfort over expense. Hence, there is an increasing demand for 4-wheeler in every family which is leading to the inefficient allotment of parking slots. We are still following the conventional method of searching for parking slots, which is not a conducive solution to this issue. 
+The aim of this project is to propose a smart solution to this issue by digitalizing the process of searching for a parking slot, thus resulting in the smooth functioning of the same. 
   <hr>
   <details><summary>Table of Contents</summary>
       <p>
