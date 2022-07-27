@@ -52,7 +52,7 @@ The aim of this project is to propose a smart solution to this issue by digitali
 <ol dir="auto">
   <li> Fork the project </li>
   <li> Create your own branch("<code>git chekcout -b 'mybranch'</code>") </li>
-<li> Open a ull Request</li>
+<li> Open a Pull Request</li>
 </ol>
 
 
