@@ -1,13 +1,13 @@
 <h1 align="center">
     Smart Car Parking System   
 </h1>
-"Smart Car Parking System" aims at providing a smart solution to the parking problem by digitalizing the process to minimize human time and effort. Furthermore, to reduce the wastage of time and fuel in searching for an available parking space due to insufficient car parking spaces or inefficient car parking management.
+**Smart Car Parking System** aims at providing a smart solution to the parking problem by digitalizing the process to minimize human time and effort. Furthermore, to reduce the wastage of time and fuel in searching for an available parking space due to insufficient car parking spaces or inefficient car parking management.
    <details><summary>Table of Contents</summary>
       <p>
         <br>
           1. About the Project
         </br>
-        2. Contribtion
+        2. Contribution
       </p>
     </details>
 <h2> 
