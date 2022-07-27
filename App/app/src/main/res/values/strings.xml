@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Parking</string>
+    <string-array name="label_array">
+        <item>Banshankari</item>
+        <item>Jayanagar</item>
+    </string-array>
+</resources>
