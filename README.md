@@ -1,7 +1,7 @@
 <h1 align="center">
     Smart Car Parking System   
 </h1>
-**Smart Car Parking System** aims at providing a smart solution to the parking problem by digitalizing the process to minimize human time and effort. Furthermore, to reduce the wastage of time and fuel in searching for an available parking space due to insufficient car parking spaces or inefficient car parking management.
+"Smart Car Parking System" aims at providing a smart solution to the parking problem by digitalizing the process to minimize human time and effort. Furthermore, to reduce the wastage of time and fuel in searching for an available parking space due to insufficient car parking spaces or inefficient car parking management.
    <details><summary>Table of Contents</summary>
       <p>
         <br>
@@ -26,15 +26,15 @@
 <pre>
     1) Android Studio
         <a href="https://developer.android.com/studio/">  
-        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Android.png?raw=true" width="30" style="max-width: 100%;">
+        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Android.png?raw=true" width="50" style="max-width: 100%;">
         </a>
     2) Firebase Realtime Database
         <a href="https://firebase.google.com/">
-        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Firebase.png?raw=true" width="30" style="max-width: 100%;">
+        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Firebase.png?raw=true" width="50" style="max-width: 100%;">
         </a>
     3) Arduino IDE
         <a href="https://www.arduino.cc/en/software/">
-        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/arduino.png?raw=true" width="30" style="max-width: 100%;">
+        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/arduino.png?raw=true" width="50" style="max-width: 100%;">
         </a>
 </pre>
 <h2 dir="auto">
