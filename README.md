@@ -1,4 +1,3 @@
-![Android Studio](Static/AS.png)
 <h1 align="center">
     Smart Car Parking System   
 </h1>
