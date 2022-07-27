@@ -25,7 +25,7 @@
 <pre>
     1) Android Studio
         <a href="https://developer.android.com/studio/"> 
-        <img_src="" width="30" style="max-width: 100%;">
+        <!--<img_src="" width="30" style="max-width: 100%;">-->
         </a>
     2) Firebase Realtime Database
         <a href="https://firebase.google.com/">
