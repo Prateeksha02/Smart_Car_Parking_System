@@ -31,6 +31,10 @@
 <a href="https://firebase.google.com/">
 <img_src="" width="30" style="max-width: 100%;">
 </a>
+3) Arduino IDE
+<a href="https://www.arduino.cc/en/software/">
+<img_src="" width="30" style="max-width: 100%;">
+</a>
 </pre>
 <h2 dir="auto">
   Contribution
