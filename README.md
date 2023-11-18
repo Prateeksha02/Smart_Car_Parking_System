@@ -12,7 +12,7 @@ The aim of this project is to propose a smart solution to this issue by digitali
 </h2>
 <h1>
     Smart Track
-  <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/logo.png?raw=true" align="center" width="100" style="max-width: 100%;">
+  <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/logo.png?raw=true" align="center" style="width: 7%">
 </h1>
 <p dir="auto">
   Its feature-rich application displays directional ways, finding available bays, and tariff information such as parking hours and charges. A payment function can also be included where motorists can utilize contactless payments. 
@@ -22,17 +22,17 @@ The aim of this project is to propose a smart solution to this issue by digitali
 </h4>
 <pre>
     1) Android Studio
-        <a href="https://developer.android.com/studio/">  
-        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Android.png?raw=true" width="50" style="max-width: 100;">
-        </a>
+        <p href="https://developer.android.com/studio/">
+        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Android.png?raw=true" style="width: 5%;">
+        </p>
     2) Firebase Realtime Database
-        <a href="https://firebase.google.com/">
-        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Firebase.png?raw=true" width="50" style="max-width: 100;">
-        </a>
+        <p href="https://firebase.google.com/">
+        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Firebase.png?raw=true" style="width: 5%;">
+        </p>
     3) Arduino IDE
-        <a href="https://www.arduino.cc/en/software/">
-        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/arduino.png?raw=true" width="50" style="max-width: 100;">
-        </a>
+        <p href="https://www.arduino.cc/en/software/">
+        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/arduino.png?raw=true" style="width: 5%;">
+        </p>
 </pre>
 
 
