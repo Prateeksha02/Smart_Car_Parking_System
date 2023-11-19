@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1>
     Smart Car Parking System   
 </h1>
 "Smart Car Parking System" aims to provide a smart solution to the parking problem by digitalizing the process to minimize human time and effort. Furthermore, it reduces the wastage of time and fuel in searching for an available parking space due to insufficient car parking spaces or inefficient car parking management.
@@ -22,17 +22,17 @@ The aim of this project is to propose a smart solution to this issue by digitali
 </h4>
 <pre>
     1) Android Studio
-        <p href="https://developer.android.com/studio/">
-        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Android.png?raw=true" style="width: 5%;">
-        </p>
+        <a href="https://developer.android.com/studio/">
+        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Android.png?raw=true" alt="Image1" style="width: 5%;">
+        </a>
     2) Firebase Realtime Database
-        <p href="https://firebase.google.com/">
-        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Firebase.png?raw=true" style="width: 5%;">
-        </p>
+        <a href="https://firebase.google.com/">
+        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/Firebase.png?raw=true" alt="Image2" style="width: 5%;">
+        </a>
     3) Arduino IDE
-        <p href="https://www.arduino.cc/en/software/">
-        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/arduino.png?raw=true" style="width: 5%;">
-        </p>
+        <a href="https://www.arduino.cc/en/software/">
+        <img src="https://github.com/Prateeksha02/Smart_Car_Parking_System/blob/main/Static/arduino.png?raw=true" alt="Image3" style="width: 5%;">
+        </a>
 </pre>
 
 
